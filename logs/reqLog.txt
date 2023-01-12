@@ -1,0 +1,3 @@
+20230112	10:45:09	f0454ce4-339f-4c46-9cce-f26f4c2cc9c6	GET	undefined	/
+20230112	10:45:09	9d563f59-1947-4cc4-8b90-9b0b964f90a4	GET	undefined	/css/style.css
+20230112	10:45:09	5d0544ce-2a4a-409e-809f-3b6cfa4d36e6	GET	undefined	/favicon.ico
